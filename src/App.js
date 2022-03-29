@@ -8,7 +8,7 @@ import Logout from "./Components/Logout";
 import Home from "./Components/Home";
 import Header from "./Components/Header";
 
-export const API_BASE_URL = 'https://9sx5ad2dy1.execute-api.us-east-1.amazonaws.com';
+export const API_BASE_URL = 'https://d3js492udcqpdm.cloudfront.net';
 export const COGNITO_BASE_URL = 'https://recipe.auth.us-east-1.amazoncognito.com';
 export const APP_REDIRECT_URI = 'https://ab3.shobaita.people.aws.dev/authenticate';
 export const APP_CLIENT_ID = '738coo3jhas54jm97mjh5nmnmm';
